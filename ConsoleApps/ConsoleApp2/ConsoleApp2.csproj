@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ConsoleApp2.Sum</StartupObject>
+    <StartupObject>ConsoleApp2.Calculater</StartupObject>
   </PropertyGroup>
 
 </Project>

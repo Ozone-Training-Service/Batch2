@@ -23,6 +23,7 @@ namespace ConsoleApp2
 
         }
 
+
         public void Display()
         {
             Console.WriteLine("Sum={0}",z);
