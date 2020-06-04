@@ -6,6 +6,24 @@ namespace Day4
 {
     public class Employee
     {
+       
+      
+
+        private int rollNo;
+        public void SetRollNo(int rollNo)// setter method
+        {
+            this.rollNo = rollNo;
+        }
+        public int getRollNo()//getter methods
+        {
+
+
+            return rollNo;
+        }
+
+
+      
+
 
         public void hello( ) // without returb type without parameter
         {

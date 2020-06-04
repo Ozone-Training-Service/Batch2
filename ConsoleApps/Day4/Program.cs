@@ -7,11 +7,15 @@ namespace Day4
         static void Main(string[] args)
         {
             Employee obj = new Employee();
-            obj.hello();
-            int y=obj.getARandomNumber();
-            Console.WriteLine("Random="+y);
+            //obj.hello();
+            //int y=obj.getARandomNumber();
+            //Console.WriteLine("Random="+y);
 
             obj.Sum(10,10);
+
+
+            obj.SetRollNo(10);
+            Console.WriteLine(obj.getRollNo());
 
             Console.WriteLine(obj.Sub(20,10));
         }
