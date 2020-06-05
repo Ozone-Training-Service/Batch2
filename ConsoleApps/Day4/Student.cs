@@ -18,7 +18,7 @@ namespace Day4
         }
 
 
-        public string Address { get; set; }//properties
+        public string Address { get; set; }// properties
         public int RollNo { get; set; }
         public int M1 { get; set; }
         public int M2 { get; set; }
