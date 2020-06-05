@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3", "ConsoleApps\Day3\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4", "ConsoleApps\Day4\Day4.csproj", "{4906FE70-E726-4184-8404-256762C8CC1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebSites\WebApplication1\WebApplication1.csproj", "{D84416B1-6A3E-4B4D-9FCA-017DE8FE74AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebSites\WebApplication1\WebApplication1.csproj", "{D84416B1-6A3E-4B4D-9FCA-017DE8FE74AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement", "ConsoleApps\StudentManagement\StudentManagement.csproj", "{302069B5-750A-4207-8172-1DC5B9A4743A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagement", "ConsoleApps\StudentManagement\StudentManagement.csproj", "{302069B5-750A-4207-8172-1DC5B9A4743A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "ConsoleApps\Inheritance\Inheritance.csproj", "{D56E20BE-ED5B-43CE-BE4A-4A507C5F4648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "ConsoleApps\Inheritance\Inheritance.csproj", "{D56E20BE-ED5B-43CE-BE4A-4A507C5F4648}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionOverloadingAndOverRidding", "ConsoleApps\FunctionOverloadingAndOverRidding\FunctionOverloadingAndOverRidding.csproj", "{29FA9863-2113-4D12-9E5F-6B7AD6080282}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{D56E20BE-ED5B-43CE-BE4A-4A507C5F4648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D56E20BE-ED5B-43CE-BE4A-4A507C5F4648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D56E20BE-ED5B-43CE-BE4A-4A507C5F4648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FA9863-2113-4D12-9E5F-6B7AD6080282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FA9863-2113-4D12-9E5F-6B7AD6080282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FA9863-2113-4D12-9E5F-6B7AD6080282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FA9863-2113-4D12-9E5F-6B7AD6080282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{D84416B1-6A3E-4B4D-9FCA-017DE8FE74AB} = {EEAFDCAE-1581-4432-828D-1D2D0F2DE256}
 		{302069B5-750A-4207-8172-1DC5B9A4743A} = {0436BA34-3354-4935-9157-17232175ACB9}
 		{D56E20BE-ED5B-43CE-BE4A-4A507C5F4648} = {0436BA34-3354-4935-9157-17232175ACB9}
+		{29FA9863-2113-4D12-9E5F-6B7AD6080282} = {0436BA34-3354-4935-9157-17232175ACB9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {611141CF-EEBB-41BC-B65A-8472DB6F5611}
