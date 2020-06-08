@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOperations", "ConsoleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ConsoleApps\ExceptionHandling\ExceptionHandling.csproj", "{29ABBFB0-61A7-4954-B90F-EAB976AD6C3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebApp", "WebSites\FirstWebApp\FirstWebApp.csproj", "{62D0A2D3-5919-47A9-B96F-B59B3AEFCBD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{29ABBFB0-61A7-4954-B90F-EAB976AD6C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29ABBFB0-61A7-4954-B90F-EAB976AD6C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29ABBFB0-61A7-4954-B90F-EAB976AD6C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D0A2D3-5919-47A9-B96F-B59B3AEFCBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D0A2D3-5919-47A9-B96F-B59B3AEFCBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D0A2D3-5919-47A9-B96F-B59B3AEFCBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D0A2D3-5919-47A9-B96F-B59B3AEFCBD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{29FA9863-2113-4D12-9E5F-6B7AD6080282} = {0436BA34-3354-4935-9157-17232175ACB9}
 		{BDC7FA4B-AA3E-46BE-812A-C583DAC49201} = {0436BA34-3354-4935-9157-17232175ACB9}
 		{29ABBFB0-61A7-4954-B90F-EAB976AD6C3C} = {0436BA34-3354-4935-9157-17232175ACB9}
+		{62D0A2D3-5919-47A9-B96F-B59B3AEFCBD8} = {EEAFDCAE-1581-4432-828D-1D2D0F2DE256}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {611141CF-EEBB-41BC-B65A-8472DB6F5611}
