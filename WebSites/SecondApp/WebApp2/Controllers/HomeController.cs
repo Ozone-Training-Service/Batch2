@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using WebApp2.Models;
 
+//localhost/Home/index
+
 namespace WebApp2.Controllers
 {
     public class HomeController : Controller
