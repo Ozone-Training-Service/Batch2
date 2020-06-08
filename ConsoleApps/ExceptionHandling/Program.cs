@@ -18,9 +18,9 @@ namespace ExceptionHandling
             }
             catch (Exception ex)
             {
-                Console.WriteLine("B can't be 0");
-                Console.WriteLine(ex.Message);
-
+                // Console.WriteLine("B can't be 0");
+                //Console.WriteLine(ex.Message);
+                throw new DivideByZeroException();
 
             }
             finally
