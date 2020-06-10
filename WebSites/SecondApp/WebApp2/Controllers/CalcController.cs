@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using WebApp2.Models;
 
 namespace WebApp2.Controllers
 {
@@ -16,6 +17,12 @@ namespace WebApp2.Controllers
 
         public IActionResult Ans(string n1, string n2)
         {
+
+            Employee emp = new Employee();
+            emp.FirstName = n1;
+
+
+
 
             int a = Convert.ToInt32(n1);
             int b = Convert.ToInt32(n2);
