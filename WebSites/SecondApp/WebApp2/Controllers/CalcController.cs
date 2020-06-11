@@ -11,6 +11,7 @@ namespace WebApp2.Controllers
     {
         public IActionResult Index()
         {
+            ViewBag.Name = "Vishnu";
             return View();
         }
 
