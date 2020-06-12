@@ -9,6 +9,6 @@ namespace TestWebApp_1.Models
 	{
 		public string Name { get; set; }
 		public string Message { get; set; }
-		public int Date { get; set; }
+		public string Date { get; set; }
 	}
 }

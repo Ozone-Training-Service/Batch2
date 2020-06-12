@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Feedback>
+
+<h1>FeedbackDetails</h1>
+
+
+
+
+<table border="2">
+	<tr>
+		<th>Name</th>
+		<th>Message</th>
+		<th>Date</th>
+	</tr>
+
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.Name</td>
+			<td>@item.Message</td>
+			<td>@item.Date</td>
+
+		</tr>
+
+	}
+
+</table>

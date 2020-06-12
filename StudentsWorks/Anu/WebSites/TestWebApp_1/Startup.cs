@@ -50,7 +50,7 @@ namespace TestWebApp_1
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Feedback}/{action=Index}/{id?}");
+                    pattern: "{controller=Feedback}/{action=FeedbackDetails}/{id?}");
             });
         }
     }
