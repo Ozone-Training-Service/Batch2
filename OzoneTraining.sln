@@ -43,13 +43,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApps", "ConsoleApps"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Websites", "Websites", "{AF2E372B-58D9-4E2F-8808-9BAF197B936F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp1", "StudentsWorks\Anu\ConsoleApps\TestApp1\TestApp1.csproj", "{FC0221AF-9D8B-4435-B36A-5589E8728660}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp1", "StudentsWorks\Anu\ConsoleApps\TestApp1\TestApp1.csproj", "{FC0221AF-9D8B-4435-B36A-5589E8728660}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp_1", "StudentsWorks\Liya\ConsoleApps\TestApp_1\TestApp_1.csproj", "{15455EAD-54E7-4E13-8B8F-F8E66F40F985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp_1", "StudentsWorks\Liya\ConsoleApps\TestApp_1\TestApp_1.csproj", "{15455EAD-54E7-4E13-8B8F-F8E66F40F985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "StudentsWorks\Liya\Websites\TestWebApp\TestWebApp.csproj", "{2E0F3565-8F30-4D9B-8DE9-140292966058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp", "StudentsWorks\Liya\Websites\TestWebApp\TestWebApp.csproj", "{2E0F3565-8F30-4D9B-8DE9-140292966058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp_1", "StudentsWorks\Anu\WebSites\TestWebApp_1\TestWebApp_1.csproj", "{13048DC7-D139-4449-85DB-A09D6B8CEC54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp_1", "StudentsWorks\Anu\WebSites\TestWebApp_1\TestWebApp_1.csproj", "{13048DC7-D139-4449-85DB-A09D6B8CEC54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
