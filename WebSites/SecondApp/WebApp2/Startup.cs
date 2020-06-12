@@ -50,7 +50,7 @@ namespace WebApp2
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Student}/{action=StudentDetails}/{id?}");
+                    pattern: "{controller=Employee}/{action=EmployeeDetails}/{id?}");
             });
         }
     }

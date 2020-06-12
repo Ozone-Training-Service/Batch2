@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "EmployeeDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>EmployeeDetails</h1>
+
+
+<table border="2">
+    <tr>
+        <th>First Name</th>
+        <th>LastName</th>
+        <th>Salary</th>
+        <th>Address</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.Salary</td>
+            <td>@item.Address</td>
+        </tr>
+
+    }
+
+</table>
+
