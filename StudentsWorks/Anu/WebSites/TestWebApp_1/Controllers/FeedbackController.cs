@@ -19,7 +19,9 @@ namespace TestWebApp_1.Controllers
 			ViewBag.Name = feedback.Name;
 			ViewBag.Message = feedback.Message;
 			ViewBag.Date = feedback.Date;
-			return View();
+
+
+			return View(feedback);
 
 
 		}
