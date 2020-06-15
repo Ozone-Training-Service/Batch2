@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp", "StudentsWorks
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp_1", "StudentsWorks\Anu\WebSites\TestWebApp_1\TestWebApp_1.csproj", "{13048DC7-D139-4449-85DB-A09D6B8CEC54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingNewTemplate", "AddingNewTemplate\AddingNewTemplate.csproj", "{FD6DDB22-CD7C-43F8-8447-FB602A224B8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{13048DC7-D139-4449-85DB-A09D6B8CEC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13048DC7-D139-4449-85DB-A09D6B8CEC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13048DC7-D139-4449-85DB-A09D6B8CEC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6DDB22-CD7C-43F8-8447-FB602A224B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6DDB22-CD7C-43F8-8447-FB602A224B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6DDB22-CD7C-43F8-8447-FB602A224B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6DDB22-CD7C-43F8-8447-FB602A224B8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{15455EAD-54E7-4E13-8B8F-F8E66F40F985} = {6ED3DAC4-9BF1-4CA1-B498-218A9593D3A5}
 		{2E0F3565-8F30-4D9B-8DE9-140292966058} = {AF2E372B-58D9-4E2F-8808-9BAF197B936F}
 		{13048DC7-D139-4449-85DB-A09D6B8CEC54} = {9E01C0A0-8838-42BE-BD27-6F8ECAB63B93}
+		{FD6DDB22-CD7C-43F8-8447-FB602A224B8B} = {9E01C0A0-8838-42BE-BD27-6F8ECAB63B93}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {611141CF-EEBB-41BC-B65A-8472DB6F5611}
