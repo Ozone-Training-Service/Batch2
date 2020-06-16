@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateAdding", "Templatea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excel", "ConsoleApp1\Excel.csproj", "{230A12DC-5FD1-4F38-B1A4-60957FCB3F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{774F4017-2C48-44C1-90DD-347ACBA1C1F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "Login\Login.csproj", "{774F4017-2C48-44C1-90DD-347ACBA1C1F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRegister", "StudentRegister\StudentRegister.csproj", "{DD0A298E-DAFE-43B6-92E5-440BBBF30F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentRegister", "StudentRegister\StudentRegister.csproj", "{DD0A298E-DAFE-43B6-92E5-440BBBF30F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "StudentsWorks\Liya\ConsoleApps\Email\Email.csproj", "{9A5FC042-B401-4D8E-A40D-342DFEFAACF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{DD0A298E-DAFE-43B6-92E5-440BBBF30F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD0A298E-DAFE-43B6-92E5-440BBBF30F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD0A298E-DAFE-43B6-92E5-440BBBF30F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5FC042-B401-4D8E-A40D-342DFEFAACF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5FC042-B401-4D8E-A40D-342DFEFAACF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5FC042-B401-4D8E-A40D-342DFEFAACF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5FC042-B401-4D8E-A40D-342DFEFAACF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +177,7 @@ Global
 		{230A12DC-5FD1-4F38-B1A4-60957FCB3F93} = {6ED3DAC4-9BF1-4CA1-B498-218A9593D3A5}
 		{774F4017-2C48-44C1-90DD-347ACBA1C1F0} = {AF2E372B-58D9-4E2F-8808-9BAF197B936F}
 		{DD0A298E-DAFE-43B6-92E5-440BBBF30F56} = {AF2E372B-58D9-4E2F-8808-9BAF197B936F}
+		{9A5FC042-B401-4D8E-A40D-342DFEFAACF2} = {6ED3DAC4-9BF1-4CA1-B498-218A9593D3A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {611141CF-EEBB-41BC-B65A-8472DB6F5611}
