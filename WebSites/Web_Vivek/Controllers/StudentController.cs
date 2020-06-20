@@ -28,7 +28,26 @@ namespace Web_Vivek.Controllers
             return View();
         }
 
+   
 
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult AddStudent(string n1,string n2,string n3)
+        {
+
+            ViewBag.Name = n1;
+            ViewBag.Age = n2;
+            ViewBag.Mark = n3;
+            return View();
+        }
+
+
+        //
         //public string Index()
         //{
         //    return "Vivek";
