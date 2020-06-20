@@ -71,7 +71,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Websites", "Websites", "{AF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWeb_1", "StudentsWorks\Vivek\Websites\TestWeb_1\TestWeb_1.csproj", "{7398E634-EC02-42E7-8184-427A35DF11B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vivek2", "StudentsWorks\Vivek\ConsoleApps\vivek2\vivek2.csproj", "{FF10841F-6E8F-4B52-80E4-66A2218B2295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vivek2", "StudentsWorks\Vivek\ConsoleApps\vivek2\vivek2.csproj", "{FF10841F-6E8F-4B52-80E4-66A2218B2295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Vivek", "WebSites\Web_Vivek\Web_Vivek.csproj", "{3039E4DC-7D49-4A23-BC46-AE3CD6405184}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{FF10841F-6E8F-4B52-80E4-66A2218B2295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF10841F-6E8F-4B52-80E4-66A2218B2295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF10841F-6E8F-4B52-80E4-66A2218B2295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3039E4DC-7D49-4A23-BC46-AE3CD6405184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3039E4DC-7D49-4A23-BC46-AE3CD6405184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3039E4DC-7D49-4A23-BC46-AE3CD6405184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3039E4DC-7D49-4A23-BC46-AE3CD6405184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -208,6 +214,7 @@ Global
 		{AFC7FF1B-EB08-4C4D-A959-CD8082BAF979} = {C045E981-B91D-402C-9BDF-3A63195A9A91}
 		{7398E634-EC02-42E7-8184-427A35DF11B0} = {AFC7FF1B-EB08-4C4D-A959-CD8082BAF979}
 		{FF10841F-6E8F-4B52-80E4-66A2218B2295} = {7A9EE98A-669B-49DE-829C-A94AAADD4B61}
+		{3039E4DC-7D49-4A23-BC46-AE3CD6405184} = {EEAFDCAE-1581-4432-828D-1D2D0F2DE256}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {611141CF-EEBB-41BC-B65A-8472DB6F5611}
