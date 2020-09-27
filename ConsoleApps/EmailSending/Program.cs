@@ -24,7 +24,7 @@ namespace EmailSending
 
 
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("vishnukumarps2017@gmail.com", "vISHNU@123");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("vishnukumarps2017@gmail.com", "passwoed");
                 SmtpServer.EnableSsl = true;
 
                 SmtpServer.Send(mail);
